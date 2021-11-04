@@ -1,0 +1,3 @@
+C:/Users/nihao/Downloads/Checkers_Student-master/Checkers_Student-master/src/checkers-cpp/cmake-build-debug/CMakeFiles/Checker_Teacher.dir
+C:/Users/nihao/Downloads/Checkers_Student-master/Checkers_Student-master/src/checkers-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nihao/Downloads/Checkers_Student-master/Checkers_Student-master/src/checkers-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
